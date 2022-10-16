@@ -1,4 +1,4 @@
-# obby-skeleton
+# how-to-roblox-game
 
 Full Tutorial: https://youtu.be/_4y_4ytcCuk
 
